@@ -1,0 +1,2 @@
+def load_vector_store():
+    return "FAISS index loaded"
