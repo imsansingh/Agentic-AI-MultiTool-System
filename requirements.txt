@@ -1,0 +1,15 @@
+
+---
+
+## **requirements.txt**
+```txt
+langchain
+transformers
+torch
+faiss-cpu
+chromadb
+fastapi
+uvicorn
+streamlit
+pydantic
+python-dotenv
