@@ -1,0 +1,6 @@
+model:
+  name: gpt-style-llm
+  temperature: 0.2
+
+vectorstore:
+  type: faiss
